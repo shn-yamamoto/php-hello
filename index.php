@@ -2,7 +2,7 @@
  <head>
   <title>PHP Test</title>
  </head>
- <body bgcolor="blue">
+ <body bgcolor="red">
  <?php echo '<p>Hello World</p>'; ?> 
  </body>
 </html>
