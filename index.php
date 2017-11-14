@@ -4,6 +4,8 @@
  </head>
  <body bgcolor="red">
  <?php echo '<p>Hello World</p>'; ?> 
- <?php  echo getenv('REMOTE_ADDR'); ?>
+ <h1>
+ <?php  echo getenv('INFRA_ENV'); ?>
+ </h1>
  </body>
 </html>
