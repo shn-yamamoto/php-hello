@@ -4,5 +4,8 @@
  </head>
  <body bgcolor="blue">
  <?php echo '<p>Hello World</p>'; ?> 
+ <h1>
+ <?php echo getenv('INFRA_ENV'); ?>
+ </h1>
  </body>
 </html>
