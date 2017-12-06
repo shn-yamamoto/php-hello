@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body bgcolor="yellow">
- <?php echo '<p>Wellcome to OpenShift Container Platform</p>'; ?> 
+ <?php echo '<p>Welcome to OpenShift Container Platform</p>'; ?> 
  <h1>
  <?php echo getenv('INFRA_ENV'); ?>
  </h1>
