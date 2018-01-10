@@ -2,8 +2,8 @@
  <head>
   <title>PHP Test</title>
  </head>
- <body bgcolor="red">
- <?php echo '<p>Welcome to OSC 2017 .Enterprise</p>'; ?> 
+ <body bgcolor="blue">
+ <?php echo '<p>Welcome to OpenShift Container Platform</p>'; ?> 
  <h1>
  <?php echo getenv('INFRA_ENV'); ?>
  </h1>
