@@ -7,5 +7,8 @@
  <h1>
  <?php echo getenv('INFRA_ENV'); ?>
  </h1>
+ <h1>
+ <?php echo gethostname(); ?>
+ </h1>
  </body>
 </html>
